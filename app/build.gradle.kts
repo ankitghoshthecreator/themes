@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ankitghoshthecreator.intereactive"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.ankitghoshthecreator.intereactive"
